@@ -12,6 +12,6 @@ This repository contains binary distributions of MilMo Rebirth Client releases.
 ---
 
 ### English
-1. Go to ttps://github.com/MillionMorning/Rebirth-Release/releases/latest and Click on `MilMo-Rebirth-vx.x.x.zip` to download the game client.
+1. Go to https://github.com/MillionMorning/Rebirth-Release/releases/latest and Click on `MilMo-Rebirth-vx.x.x.zip` to download the game client.
 2. Once the download is complete, go to your download directory and extract the `.zip` file into a folder of your choice.
 3. Run `MilMo.exe` to launch the game.
